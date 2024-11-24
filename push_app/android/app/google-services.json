@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "749886159685",
+    "project_id": "marketplace-9c943",
+    "storage_bucket": "marketplace-9c943.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749886159685:android:0d179f3ef8c214e2f31c2c",
+        "android_client_info": {
+          "package_name": "com.bryanochoa.push_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749886159685-rqu6eceti4a5fg5eqepsjv3ru3ieluat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFwSQKABmJzCy9Ov5gzj2R3SUTPkTLPGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749886159685-rqu6eceti4a5fg5eqepsjv3ru3ieluat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
